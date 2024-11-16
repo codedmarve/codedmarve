@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello, I'm Marvellous Tobi Oduwole, a passionate software engineer with a strong foundation in software<br>development and a drive to solve complex problems through technology. I'm currently in the final stages<br>of my curriculum at 42 Wolfsburg, a software engineering school, and I'm actively seeking opportunities to contribute and grow<br>as a software engineer.<br><br>About Me<br>💡 I thrive on turning ideas into functional, user-friendly software.<br>🚀 My main areas of expertise include web development, DevOps, algorithm design, and problem-solving.<br>🌱 I'm a lifelong learner, always seeking new technologies and methodologies to improve my skills.<br>💬 I value collaboration, open-source contributions, and the power of a strong development community
+A versatile Software Developer with over three years of experience delivering innovative solutions across diverse technology
+stacks. Skilled in front-end, back-end, and DevOps practices, with hands-on expertise in Web Development, Blockchain,
+and System Administration. Proficient in modern frameworks and languages, including JavaScript (ES6+), Node.js, React.js,
+Python, and Golang, as well as containerization tools like Docker and Kubernetes. Experienced in Agile and Scrum
+methodologies, with a proven track record of excelling in team collaboration and delivering clear, effective technical
+communication. Passionate about continuous learning and leveraging cutting-edge technologies to solve complex challenges and
+create exceptional user experiences.
 
 
 ## 🌐 Socials:
